@@ -153,8 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Author
-Egudu Casmir Ikechukwu - [Github](https://github.com/Rimcas)
+## Authors
+Albert Ukaegbu - [Github](https://github.com/albertase)
+
 
 ## License
 Public Domain. No copy write protection. 
